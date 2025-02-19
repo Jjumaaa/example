@@ -1,5 +1,5 @@
 *{
-    color: red;
+    color: black;
 }
 h1{
     color: blue;
@@ -19,4 +19,5 @@ ul>li{
 img{
     width: 250px;
     height: 250px;
+    border-radius: 50%;
 }
